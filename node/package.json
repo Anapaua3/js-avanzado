@@ -1,0 +1,19 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "Practica de node y npm para js avanzado clase 1",
+  "main": "js.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "npm"
+  ],
+  "author": "Ana Acosta",
+  "license": "ISC",
+  "dependencies": {
+    "cowsay": "^1.5.0",
+    "picocolors": "^1.0.0"
+  }
+}
